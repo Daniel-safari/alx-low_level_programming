@@ -2,6 +2,7 @@
 
 /**
  * Print_diagonal - Draw a diagonal line according to parameter
+ * Description - A diagonal line
  * @n: The number of times to draw the diagonal lines
  * Return: empty
  */
