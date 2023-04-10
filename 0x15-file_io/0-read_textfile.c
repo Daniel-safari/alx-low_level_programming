@@ -1,3 +1,8 @@
+/**
+ * File: 0-read_textfile.c
+ * Author: Dr. Marcus
+ */
+
 #include <stdlib.h>
 #include "main.h"
 
